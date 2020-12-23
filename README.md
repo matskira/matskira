@@ -5,7 +5,6 @@ as CS:GO professional player). Actually I work as a Back-End (Java) and Front-En
 Things I'm learning:
 - [x] NodeJS Advanced 
 - [X] ReactJS
-- [ ] Kali Linux
 - [ ] Data Collect using DNS Tools in Kali Linux
 - [ ] Studying to OCA (Oracle Certification - Java Programmer I)
 
