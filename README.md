@@ -1,6 +1,5 @@
 ### There is a difference between knowing the path and walking the path.
-My name is Matheus Poda, and I'm from Brazil. I've been working as Back-End Developer since 2020 (also have a past 
-as CS:GO professional player). Actually I work as a Back-End (Java) and Front-End (Angular 2+) at Foursys.
+My name is Matheus Poda, and I'm from Brazil. I've been working as Back-End Developer since 2020. Actually I work as a Back-End (Java) and Front-End (Angular 2+) at Foursys.
 
 Things I'm learning:
 - [x] NodeJS Advanced
