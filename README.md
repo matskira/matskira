@@ -36,4 +36,4 @@
 
 ##
 
-![Snake animation](https://github.com/matskira/matskira/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/matskira/matskira/blob/output/github-contribution-grid-snake.svg) -->
