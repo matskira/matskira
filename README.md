@@ -5,7 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matskira&layout=donut&show_icons=true&theme=radical" />
 
  - 🧑‍💻 Programming since 2017.
- - 🌐 I work especially as a Pleno Web systems analyst and programmer.
+ - 🌐 I work especially as a Web Cloud systems analyst and programmer.
  - ☕ Ask about Java, JavaScript and HTML/CSS😍!
  - 👨‍🏫 Teach programming on my [social networks](https://beacons.ai/devmpoda).
  - 📒 My [articles](https://dev.to/devmpoda).
