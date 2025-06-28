@@ -5,11 +5,10 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matskira&layout=donut&show_icons=true&theme=radical" />
 
  - 🧑‍💻 Programming since 2017.
- - 🌐 I work especially as a Web Cloud systems analyst and programmer.
- - ☕ Ask about Java, JavaScript and HTML/CSS😍!
- - 👨‍🏫 Teach programming on my [social networks](https://beacons.ai/devmpoda).
+ - 🌐 I work especially as a Tech Lead in @Bradesco.
+ - ☕ Ask about Software Solutions!
  - 📒 My [articles](https://dev.to/devmpoda).
- - 🤓 Currently aspiring software architect.
+ - 🤓 Currently aspiring CIO.
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,11 +25,7 @@
 ##
 
 <div style="display: inline_block">
-  <a href="https://www.youtube.com/channel/UCQySv0IqL_1e8c9EDyLOAHw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.tiktok.com/@devmpoda" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/devmpoda/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitter.com/devmpoda/" target="_blank"><img src=" 	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://github.com/matskira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+ <a href="https://github.com/matskira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/devmpoda" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" target="_blank"></a>
 </div>
 
